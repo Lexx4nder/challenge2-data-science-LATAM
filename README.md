@@ -8,6 +8,7 @@ Este proyecto explora las razones por las cuales los clientes cancelan su servic
 
 
 **🛠️ Herramientas utilizadas**
+
 Python (Pandas, Matplotlib, Seaborn)
 Jupyter Notebook
 Google Colab
@@ -15,6 +16,7 @@ Git & GitHub
 
 
 **🚀 ¿Cómo ejecutar el proyecto?**
+
 Puedes correr este análisis directamente en Google Colab, sin necesidad de instalar nada en tu computadora. Solo sigue estos pasos:
 
 Abre el notebook en Colab haciendo clic aquí:
@@ -26,6 +28,7 @@ Ejecuta las celdas en orden para ver el análisis completo, gráficos y conclusi
 
 
 **🔍 Principales hallazgos**
+
 Contratos mensuales: Los clientes con contratos sin permanencia tienden a cancelar más rápido.
 Fibra óptica: Aunque es un servicio premium, su costo no siempre se justifica si no hay valor percibido.
 Pago manual: El uso de cheques electrónicos se relaciona con menor fidelización.
@@ -34,6 +37,7 @@ Precio mensual: Rangos entre $60 y $90 sin beneficios claros pueden generar canc
 
 
 **📌 Conclusiones**
+
 Los abandonos tempranos se deben principalmente a:
 
 Falta de estrategias de retención en los primeros meses.
@@ -43,6 +47,7 @@ Métodos de pago que reflejan bajo involucramiento.
 
 
 **✅ Recomendaciones**
+
 Implementar programas de bienvenida y seguimiento en los primeros 90 días.
 Ofrecer beneficios por contratos a largo plazo.
 Incluir servicios adicionales que aumenten el valor percibido.
