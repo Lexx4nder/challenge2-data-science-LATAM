@@ -3,6 +3,7 @@
 
 
 **🧾 Descripción del Proyecto**
+
 Este proyecto explora las razones por las cuales los clientes cancelan su servicio dentro de los primeros meses. A través del análisis de datos, se identifican patrones comunes que ayudan a entender mejor el comportamiento del cliente y proponer acciones para mejorar la retención.
 
 
